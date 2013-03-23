@@ -1,0 +1,21 @@
+{
+    "name": "monkeywrench",
+    "version": "0.0.1",
+
+    "description": "Node.js helper library",
+    "keywords": [],
+    "homepage": "https://github.com/ldgabbay/node-monkeywrench",
+    "license": "MIT",
+
+    "author": "Lynn Gabbay <gabbay.z+github@gmail.com>",
+    "repository": {
+        "type": "git", 
+        "url": "git://github.com/ldgabbay/node-monkeywrench.git"
+    },
+    "bugs": {
+        "email": "gabbay.z+github@gmail.com",
+        "url": "https://github.com/ldgabbay/node-monkeywrench/issues"
+    },
+
+    "main": "monkeywrench.js"
+}
